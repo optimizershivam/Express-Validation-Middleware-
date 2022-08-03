@@ -1,0 +1,15 @@
+{
+    "movies": [
+        {
+            "Name": "RRR",
+            "ID": 3,
+            "Description": "Enthraling Rajamouli masterpiece",
+            "Rating": 8,
+            "Genre": "Action",
+            "Cast": [
+                "ram charan",
+                "jr. Ntr"
+            ]
+        }
+    ]
+}
